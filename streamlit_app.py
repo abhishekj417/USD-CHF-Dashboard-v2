@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 import datetime as dt
 import yfinance as yf
-from pandas_datareader.data as web
+import pandas_datareader.data as web
 from pandas_datareader import wb
 import streamlit as st
 import plotly.express as px
